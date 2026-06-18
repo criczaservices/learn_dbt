@@ -1,3 +1,16 @@
 this is just a log file to check the data valdation 
 
 sql - select * from orders
+
+git command to work
+# update the git repo or change 
+git remote -v
+git set url origin link 
+
+# puching the code  
+git init 
+git status 
+git branch 
+git add .
+git commit -m "message"
+git push origin main r
