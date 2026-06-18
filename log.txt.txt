@@ -23,3 +23,8 @@ git pull origin main -- to take the main brach code to create the fect branch
 git switch -c branch name -- creting the new branch 
 git branch -- to see the brach in that repo 
 use command dri to code . or ls to see the file in that branch 
+
+# how to create the pull request
+using the GitHub ui
+create the pull request from the fecsame or fecture branch 
+

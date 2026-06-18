@@ -1,5 +1,5 @@
 # here we get the number
 a = 30 
 b = 45
-sumai = a + b
+sumai = a + "b"
 print(sumai)
