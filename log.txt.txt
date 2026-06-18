@@ -3,9 +3,10 @@ this is just a log file to check the data valdation
 sql - select * from orders
 
 git command to work
-# update the git repo or change 
+# change  the git repo 
 git remote -v
 git set url origin link 
+
 
 # puching the code  
 git init 
@@ -14,3 +15,11 @@ git branch
 git add .
 git commit -m "message"
 git push origin main r
+
+# creating the fecture branch 
+git checkout  -- this  help to move form one brach to another 
+git commit  -m " message "
+git pull origin main -- to take the main brach code to create the fect branch
+git switch -c branch name -- creting the new branch 
+git branch -- to see the brach in that repo 
+use command dri to code . or ls to see the file in that branch 
